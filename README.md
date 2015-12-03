@@ -1,5 +1,5 @@
 # webdriverdemo
-Just a very short demo of Selenium's WebDriver.
+Just a very short demo of [Selenium's WebDriver](http://docs.seleniumhq.org/projects/webdriver/).
 
 ## prerequisites
 
